@@ -1,0 +1,16 @@
+D:\projects\C#\1st program\Exp 2\Exp 2\bin\Debug\Exp 2.exe.config
+D:\projects\C#\1st program\Exp 2\Exp 2\bin\Debug\Exp 2.exe
+D:\projects\C#\1st program\Exp 2\Exp 2\bin\Debug\Exp 2.pdb
+D:\projects\C#\1st program\Exp 2\Exp 2\obj\Debug\Exp 2.csproj.AssemblyReference.cache
+D:\projects\C#\1st program\Exp 2\Exp 2\obj\Debug\Exp 2.csproj.SuggestedBindingRedirects.cache
+D:\projects\C#\1st program\Exp 2\Exp 2\obj\Debug\Exp 2.csproj.CoreCompileInputs.cache
+D:\projects\C#\1st program\Exp 2\Exp 2\obj\Debug\Exp 2.exe
+D:\projects\C#\1st program\Exp 2\Exp 2\obj\Debug\Exp 2.pdb
+C:\Users\denis\Desktop\Лабы\ВПИ\1 лаба\Exp 2\Exp 2\obj\Debug\Exp 2.csproj.AssemblyReference.cache
+C:\Users\denis\Desktop\Лабы\ВПИ\1 лаба\Exp 2\Exp 2\obj\Debug\Exp 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\denis\Desktop\Лабы\ВПИ\1 лаба\Exp 2\Exp 2\obj\Debug\Exp 2.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\Лабы\ВПИ\1 лаба\Exp 2\Exp 2\obj\Debug\Exp 2.exe
+C:\Users\denis\Desktop\Лабы\ВПИ\1 лаба\Exp 2\Exp 2\obj\Debug\Exp 2.pdb
+C:\Users\denis\Desktop\Лабы\ВПИ\1 лаба\Exp 2\Exp 2\bin\Debug\Exp 2.exe.config
+C:\Users\denis\Desktop\Лабы\ВПИ\1 лаба\Exp 2\Exp 2\bin\Debug\Exp 2.exe
+C:\Users\denis\Desktop\Лабы\ВПИ\1 лаба\Exp 2\Exp 2\bin\Debug\Exp 2.pdb

@@ -1,0 +1,15 @@
+C:\Users\denis\Desktop\Лабы\ВПИ\1 лаба\ThePoint\ThePoint\bin\Release\net6.0\ThePoint.exe
+C:\Users\denis\Desktop\Лабы\ВПИ\1 лаба\ThePoint\ThePoint\bin\Release\net6.0\ThePoint.deps.json
+C:\Users\denis\Desktop\Лабы\ВПИ\1 лаба\ThePoint\ThePoint\bin\Release\net6.0\ThePoint.runtimeconfig.json
+C:\Users\denis\Desktop\Лабы\ВПИ\1 лаба\ThePoint\ThePoint\bin\Release\net6.0\ThePoint.dll
+C:\Users\denis\Desktop\Лабы\ВПИ\1 лаба\ThePoint\ThePoint\bin\Release\net6.0\ThePoint.pdb
+C:\Users\denis\Desktop\Лабы\ВПИ\1 лаба\ThePoint\ThePoint\obj\Release\net6.0\ThePoint.csproj.AssemblyReference.cache
+C:\Users\denis\Desktop\Лабы\ВПИ\1 лаба\ThePoint\ThePoint\obj\Release\net6.0\ThePoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\Desktop\Лабы\ВПИ\1 лаба\ThePoint\ThePoint\obj\Release\net6.0\ThePoint.AssemblyInfoInputs.cache
+C:\Users\denis\Desktop\Лабы\ВПИ\1 лаба\ThePoint\ThePoint\obj\Release\net6.0\ThePoint.AssemblyInfo.cs
+C:\Users\denis\Desktop\Лабы\ВПИ\1 лаба\ThePoint\ThePoint\obj\Release\net6.0\ThePoint.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\Лабы\ВПИ\1 лаба\ThePoint\ThePoint\obj\Release\net6.0\ThePoint.dll
+C:\Users\denis\Desktop\Лабы\ВПИ\1 лаба\ThePoint\ThePoint\obj\Release\net6.0\refint\ThePoint.dll
+C:\Users\denis\Desktop\Лабы\ВПИ\1 лаба\ThePoint\ThePoint\obj\Release\net6.0\ThePoint.pdb
+C:\Users\denis\Desktop\Лабы\ВПИ\1 лаба\ThePoint\ThePoint\obj\Release\net6.0\ThePoint.genruntimeconfig.cache
+C:\Users\denis\Desktop\Лабы\ВПИ\1 лаба\ThePoint\ThePoint\obj\Release\net6.0\ref\ThePoint.dll
